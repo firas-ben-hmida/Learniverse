@@ -74,6 +74,12 @@
 Interested in contributing? Fork the repo, open an issue, or submit a pull request. All contributions are welcome!
 
 ---
+## 👤 Author
+
+**Firas Ben Hmida**  
+[GitHub Profile](https://github.com/firas-ben-hmida)
+
+---
 
 
 
