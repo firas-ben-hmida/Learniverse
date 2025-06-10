@@ -19,6 +19,14 @@
 - Admin dashboard to ban users based on complaints
 - Complaint management system
 
+### 🤖 Smart Complaint Module  
+- Implementation of a **complaint resolution module** to assist users in resolving issues through an integrated **AI-powered chatbot**.  
+- Offers powerful tools for administrators including **search, sorting, pagination, filtering, notifications**, and **statistical analysis** to efficiently manage complaints.  
+- Developed **two AI models** using **Python (Anaconda)** and **Jupyter Notebook**:  
+  - A **response suggestion model** to automatically propose replies based on complaint content  
+  - A **prohibited language detection model** to flag and handle inappropriate or unacceptable words in submissions  
+- Both models are integrated into the platform using a **Flask REST API**, allowing real-time interaction between the application and the AI services.
+
 ### 📚 Content & Engagement
 - 📌 **Courses**: Users can browse and enroll in structured online courses  
 - 🏆 **Competitions**: Periodic challenges to encourage learning through gamification  
