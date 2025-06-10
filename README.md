@@ -1,7 +1,6 @@
 # 📚 Learniverse
 
 **Learniverse** is a modern and secure e-learning platform that enhances online education with rich student-teacher interaction, strong security systems, and cross-platform accessibility. The platform includes a full-featured **Java desktop app**, a responsive **web-based admin panel**, and a **mobile app** developed using FlutterFlow.
-![image](https://github.com/user-attachments/assets/41baedfc-b992-432f-bc3b-e6165c514468)
 
 
 ---
@@ -52,11 +51,22 @@
 
 ### 🔹 Desktop App
 - Built with **JavaFX**
-- Provides learning features, authentication, and forums for users
+- Provides learning features, authentication,competitions and forums for users
+![image](https://github.com/user-attachments/assets/77fa97a9-160b-4c10-a361-4f6ab4c9b94c)
+
 
 ### 🔹 Web Platform
 - Symfony-based backend with modern frontend stack
 - Used mainly by administrators to manage users, complaints, and sessions
+![image](https://github.com/user-attachments/assets/b2d4c44f-cfe5-4164-a3a9-d1960156c44a)
+![image](https://github.com/user-attachments/assets/fbfde903-1443-4b29-bf4e-019914bff77c)
+![image](https://github.com/user-attachments/assets/58bbf491-3ff8-4aa2-9d01-dd0d0e846870)
+![image](https://github.com/user-attachments/assets/1932d921-323f-4f68-90d7-7f7e52517044)
+![image](https://github.com/user-attachments/assets/59bd0a16-2751-4992-8b6c-26f90790a13f)
+![image](https://github.com/user-attachments/assets/6b6e4b0d-2902-47b6-9c8c-d674d5017b15)
+![image](https://github.com/user-attachments/assets/7891c522-c24a-4901-9043-af18a820c3ae)
+![image](https://github.com/user-attachments/assets/ff51dd9b-a3a8-456e-808f-c81194385a3a)
+
 
 ### 🔹 Mobile App
 - Built with **FlutterFlow**
