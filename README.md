@@ -1,6 +1,8 @@
 # 📚 Learniverse
 
 **Learniverse** is a modern and secure e-learning platform that enhances online education with rich student-teacher interaction, strong security systems, and cross-platform accessibility. The platform includes a full-featured **Java desktop app**, a responsive **web-based admin panel**, and a **mobile app** developed using FlutterFlow.
+![image](https://github.com/user-attachments/assets/41baedfc-b992-432f-bc3b-e6165c514468)
+
 
 ---
 
