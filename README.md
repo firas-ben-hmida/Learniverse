@@ -82,7 +82,6 @@
 
 
 ### 🔹 Mobile App
-- Built with **FlutterFlow**
 ![image](https://github.com/user-attachments/assets/128512b3-8e6b-41f0-b773-239df6be7099)
 ![image](https://github.com/user-attachments/assets/f3ba2df3-4d74-4a15-844a-8e7b89ece1bd)
 ![image](https://github.com/user-attachments/assets/ebf12a3e-f554-491c-a295-31080e327c08)
