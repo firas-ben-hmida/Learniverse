@@ -66,7 +66,7 @@
 ![image](https://github.com/user-attachments/assets/9d98b31e-5c14-4234-810a-511168b60805)
 ![image](https://github.com/user-attachments/assets/3108e44e-c963-4633-b3e1-e8cecd8a0a90)
 ![image](https://github.com/user-attachments/assets/dd3e9396-fed6-43f9-9b91-624bd2ffd44b)
-
+![image](https://github.com/user-attachments/assets/6506dd67-11d7-4caa-b4cf-e5ed8db7ab19)
 
 ### 🔹 Web Platform
 - Symfony-based backend with modern frontend stack
@@ -79,7 +79,6 @@
 ![image](https://github.com/user-attachments/assets/6b6e4b0d-2902-47b6-9c8c-d674d5017b15)
 ![image](https://github.com/user-attachments/assets/7891c522-c24a-4901-9043-af18a820c3ae)
 ![image](https://github.com/user-attachments/assets/ff51dd9b-a3a8-456e-808f-c81194385a3a)
-![image](https://github.com/user-attachments/assets/6506dd67-11d7-4caa-b4cf-e5ed8db7ab19)
 
 
 ### 🔹 Mobile App
